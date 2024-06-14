@@ -1,6 +1,7 @@
 title: Nothing But Waffles
 description: A place to share my tinkering.
-author: Otto
+author: 
+  name: Otto
 
 remote_theme: jekyll/minima
 
