@@ -2,7 +2,7 @@ title: Nothing But Waffles
 description: A place to share my tinkering.
 author: Otto
 
-theme: minima
+theme: jekyll-theme-minima
 
 minima:
   skin: solarized-dark

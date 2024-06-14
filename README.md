@@ -1,1 +1,3 @@
 # README
+
+Just a lil blog...
