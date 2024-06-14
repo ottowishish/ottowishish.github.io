@@ -1,2 +1,1 @@
-# ottowishish.github.io
-Testing GitHub Pages...
+# README

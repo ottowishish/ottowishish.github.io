@@ -4,5 +4,8 @@ author: Otto
 
 theme: minima
 
+minima:
+  skin: solarized-dark
+
 exclude:
   - README.md
