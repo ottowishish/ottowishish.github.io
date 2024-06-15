@@ -7,6 +7,8 @@ categories: junk
 meta: "something 'bout metadata"
 ---
 
+✦_This is the description about by blog post._✦
+
 ## My First Post
 
 Hooray first post.
