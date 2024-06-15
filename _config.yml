@@ -12,8 +12,12 @@ minima:
     - { platform: github,  user_url: "https://github.com/ottowishish" }
 
 header_pages:
-  - index.md
-  - about.md
+  - _pages/index.md
+  - _pages/about.md
+
+include:
+  - _pages
 
 exclude:
   - README.md
+  - .gitignore
