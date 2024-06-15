@@ -1,3 +1,7 @@
-# Home
+---
+title: "Home"
+---
+
+## Home Page
 
 Testing...

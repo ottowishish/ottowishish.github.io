@@ -1,3 +1,7 @@
-# About
+---
+title: "About"
+---
+
+## My About
 
 Testing...
