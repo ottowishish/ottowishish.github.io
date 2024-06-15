@@ -9,3 +9,4 @@ Okay:
 3. Can I change post URLs?
 4. Do I need any gemfiles?
 5. Why does all text look clickable?
+6. 404.html from minima?
