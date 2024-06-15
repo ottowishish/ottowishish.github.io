@@ -1,5 +1,5 @@
 ---
-permalink: /abo
+permalink: /about
 layout: page
 title: "About"
 ---
