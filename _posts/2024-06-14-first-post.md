@@ -1,5 +1,5 @@
 ---
-permalink: first-post
+permalink: posts/first-post
 layout: post
 author: ottowishish
 title: "Really, My First Post"
